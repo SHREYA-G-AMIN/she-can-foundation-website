@@ -33,8 +33,7 @@ This project was created as part of the internship selection task for She Can Fo
 The website highlights the foundation’s mission of empowering girls and women through awareness, education, and support.
 
 ## Live Preview
-
-
+🌐 [Live Website](https://shreya-g-amin.github.io/she-can-foundation-website/)
 
 ## Author
 
